@@ -1,5 +1,11 @@
 # DevOps Directive Terraform Course
 
+## About
+- **What it is:** An untouched copy of the code that goes with a Terraform (infrastructure-as-code) video course.
+- **Business:** learning
+- **Status:** inactive since 2023-01
+- **Source:** agent research 2026-11-04
+
 This is the companion repo to: [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4)
 
 [![thumbnail](https://user-images.githubusercontent.com/1320389/154354937-98533608-2f42-44c1-8110-87f7e3f45085.jpeg)](https://www.youtube.com/watch?v=7xngnjfIlK4)
